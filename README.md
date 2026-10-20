@@ -1,4 +1,10 @@
-# 气田站场安全平台 · 移动端原型
+# lbydgzt · 来宾移动工作台原型
+
+固定访问地址：https://wang6122546.github.io/lbydgzt/
+
+GitHub 仓库：https://github.com/wang6122546/lbydgzt
+
+发布方式：推送到 `main` 分支后由 GitHub Pages 自动更新，访问地址保持不变。
 
 当前范围：首页、我的、工作台系统入口，以及首页任务通知和通知公告入口。
 
