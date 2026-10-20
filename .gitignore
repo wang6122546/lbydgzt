@@ -1,0 +1,5 @@
+.DS_Store
+*.log
+tests/operation-reference/
+tests/screenshots/
+tests/operation-browser-checks.json
